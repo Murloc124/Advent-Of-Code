@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28307.106
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day 1 - Inverse Captcha", "Day 1 - Inverse Captcha\Day 1 - Inverse Captcha.csproj", "{E7B231CB-B5F8-47C6-96D8-A33BD0C7EFA1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day 2 - Corruption Checksum", "Day 2 - Corruption Checksum\Day 2 - Corruption Checksum.csproj", "{6FB5E000-EEF6-4742-BC8E-0845933B6A96}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{E7B231CB-B5F8-47C6-96D8-A33BD0C7EFA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E7B231CB-B5F8-47C6-96D8-A33BD0C7EFA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E7B231CB-B5F8-47C6-96D8-A33BD0C7EFA1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6FB5E000-EEF6-4742-BC8E-0845933B6A96}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FB5E000-EEF6-4742-BC8E-0845933B6A96}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6FB5E000-EEF6-4742-BC8E-0845933B6A96}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FB5E000-EEF6-4742-BC8E-0845933B6A96}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
