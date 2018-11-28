@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day 3 - Spiral Memory", "Da
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day 4 - High-Entropy Passphrases", "Day 4 - High-Entropy Passphrases\Day 4 - High-Entropy Passphrases.csproj", "{E674152F-9349-44B9-AC68-79410E014AEF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day 5 - A Maze of Twisty Trampolines, All Alike", "Day 5 - A Maze of Twisty Trampolines, All Alike\Day 5 - A Maze of Twisty Trampolines, All Alike.csproj", "{15764625-A53B-4873-AD89-809D5253EE92}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{E674152F-9349-44B9-AC68-79410E014AEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E674152F-9349-44B9-AC68-79410E014AEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E674152F-9349-44B9-AC68-79410E014AEF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{15764625-A53B-4873-AD89-809D5253EE92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15764625-A53B-4873-AD89-809D5253EE92}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15764625-A53B-4873-AD89-809D5253EE92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15764625-A53B-4873-AD89-809D5253EE92}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
