@@ -66,8 +66,8 @@ namespace Day_3___Spiral_Memory
                     {
                         if ((mapKey[0] - 1 == newkey[0]
                             || mapKey[0] == newkey[0]
-                            || mapKey[0] + 1 == newkey[0]) &&
-                            (mapKey[1] - 1 == newkey[1]
+                            || mapKey[0] + 1 == newkey[0])
+                            && (mapKey[1] - 1 == newkey[1]
                             || mapKey[1] == newkey[1]
                             || mapKey[1] + 1 == newkey[1]))
                         {
@@ -81,8 +81,8 @@ namespace Day_3___Spiral_Memory
                     {
                         if ((mapKey[0] - 1 == newkey[0]
                             || mapKey[0] == newkey[0]
-                            || mapKey[0] + 1 == newkey[0]) &&
-                            (mapKey[1] - 1 == newkey[1]
+                            || mapKey[0] + 1 == newkey[0])
+                            && (mapKey[1] - 1 == newkey[1]
                             || mapKey[1] == newkey[1]
                             || mapKey[1] + 1 == newkey[1]))
                         {
@@ -96,8 +96,8 @@ namespace Day_3___Spiral_Memory
                     {
                         if ((mapKey[0] - 1 == newkey[0]
                             || mapKey[0] == newkey[0]
-                            || mapKey[0] + 1 == newkey[0]) &&
-                            (mapKey[1] - 1 == newkey[1]
+                            || mapKey[0] + 1 == newkey[0])
+                            && (mapKey[1] - 1 == newkey[1]
                             || mapKey[1] == newkey[1]
                             || mapKey[1] + 1 == newkey[1]))
                         {
@@ -111,8 +111,8 @@ namespace Day_3___Spiral_Memory
                     {
                         if ((mapKey[0] - 1 == newkey[0]
                             || mapKey[0] == newkey[0]
-                            || mapKey[0] + 1 == newkey[0]) &&
-                            (mapKey[1] - 1 == newkey[1]
+                            || mapKey[0] + 1 == newkey[0])
+                            && (mapKey[1] - 1 == newkey[1]
                             || mapKey[1] == newkey[1]
                             || mapKey[1] + 1 == newkey[1]))
                         {
@@ -126,8 +126,8 @@ namespace Day_3___Spiral_Memory
                     {
                         if ((mapKey[0] - 1 == newkey[0]
                             || mapKey[0] == newkey[0]
-                            || mapKey[0] + 1 == newkey[0]) &&
-                            (mapKey[1] - 1 == newkey[1]
+                            || mapKey[0] + 1 == newkey[0])
+                            && (mapKey[1] - 1 == newkey[1]
                             || mapKey[1] == newkey[1]
                             || mapKey[1] + 1 == newkey[1]))
                         {
