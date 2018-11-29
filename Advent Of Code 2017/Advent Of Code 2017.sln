@@ -13,7 +13,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day 4 - High-Entropy Passph
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day 5 - A Maze of Twisty Trampolines, All Alike", "Day 5 - A Maze of Twisty Trampolines, All Alike\Day 5 - A Maze of Twisty Trampolines, All Alike.csproj", "{15764625-A53B-4873-AD89-809D5253EE92}"
 EndProject
+<<<<<<< HEAD
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day 6 - Memory Reallocation", "Day 6 - Memory Reallocation\Day 6 - Memory Reallocation.csproj", "{A0FDF780-C021-4E4E-823F-2136B1AFCBA5}"
+=======
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day 25 - The Halting Problem", "Day 25 - The Halting Problem\Day 25 - The Halting Problem.csproj", "{D404E325-E7F0-4455-BAC2-015E1241078A}"
+>>>>>>> 17fa7947b381315e86d94310deb09ce8bd4ace60
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -41,10 +45,17 @@ Global
 		{15764625-A53B-4873-AD89-809D5253EE92}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{15764625-A53B-4873-AD89-809D5253EE92}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{15764625-A53B-4873-AD89-809D5253EE92}.Release|Any CPU.Build.0 = Release|Any CPU
+<<<<<<< HEAD
 		{A0FDF780-C021-4E4E-823F-2136B1AFCBA5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{A0FDF780-C021-4E4E-823F-2136B1AFCBA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A0FDF780-C021-4E4E-823F-2136B1AFCBA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A0FDF780-C021-4E4E-823F-2136B1AFCBA5}.Release|Any CPU.Build.0 = Release|Any CPU
+=======
+		{D404E325-E7F0-4455-BAC2-015E1241078A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D404E325-E7F0-4455-BAC2-015E1241078A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D404E325-E7F0-4455-BAC2-015E1241078A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D404E325-E7F0-4455-BAC2-015E1241078A}.Release|Any CPU.Build.0 = Release|Any CPU
+>>>>>>> 17fa7947b381315e86d94310deb09ce8bd4ace60
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
