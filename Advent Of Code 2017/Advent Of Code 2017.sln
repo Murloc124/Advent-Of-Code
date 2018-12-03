@@ -3,21 +3,23 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.106
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day 1 - Inverse Captcha", "Day 1 - Inverse Captcha\Day 1 - Inverse Captcha.csproj", "{E7B231CB-B5F8-47C6-96D8-A33BD0C7EFA1}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day 2 - Corruption Checksum", "Day 2 - Corruption Checksum\Day 2 - Corruption Checksum.csproj", "{6FB5E000-EEF6-4742-BC8E-0845933B6A96}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day 3 - Spiral Memory", "Day 3 - Spiral Memory\Day 3 - Spiral Memory.csproj", "{0BD11D27-858E-4A97-A175-A94371289031}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day 4 - High-Entropy Passphrases", "Day 4 - High-Entropy Passphrases\Day 4 - High-Entropy Passphrases.csproj", "{E674152F-9349-44B9-AC68-79410E014AEF}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day 5 - A Maze of Twisty Trampolines, All Alike", "Day 5 - A Maze of Twisty Trampolines, All Alike\Day 5 - A Maze of Twisty Trampolines, All Alike.csproj", "{15764625-A53B-4873-AD89-809D5253EE92}"
-EndProject
-<<<<<<< HEAD
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day 6 - Memory Reallocation", "Day 6 - Memory Reallocation\Day 6 - Memory Reallocation.csproj", "{A0FDF780-C021-4E4E-823F-2136B1AFCBA5}"
-=======
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day 25 - The Halting Problem", "Day 25 - The Halting Problem\Day 25 - The Halting Problem.csproj", "{D404E325-E7F0-4455-BAC2-015E1241078A}"
->>>>>>> 17fa7947b381315e86d94310deb09ce8bd4ace60
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day 07 - Recursive Circus", "Day 07 - Recursive Circus\Day 07 - Recursive Circus.csproj", "{29F85821-CCEB-444D-978A-0DC5CCA1E8E4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day 01 - Inverse Captcha", "Day 01 - Inverse Captcha\Day 01 - Inverse Captcha.csproj", "{E7B231CB-B5F8-47C6-96D8-A33BD0C7EFA1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day 02 - Corruption Checksum", "Day 02 - Corruption Checksum\Day 02 - Corruption Checksum.csproj", "{6FB5E000-EEF6-4742-BC8E-0845933B6A96}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day 03 - Spiral Memory", "Day 03 - Spiral Memory\Day 03 - Spiral Memory.csproj", "{0BD11D27-858E-4A97-A175-A94371289031}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day 04 - High-Entropy Passphrases", "Day 04 - High-Entropy Passphrases\Day 04 - High-Entropy Passphrases.csproj", "{E674152F-9349-44B9-AC68-79410E014AEF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day 05 - A Maze of Twisty Trampolines, All Alike", "Day 05 - A Maze of Twisty Trampolines, All Alike\Day 05 - A Maze of Twisty Trampolines, All Alike.csproj", "{15764625-A53B-4873-AD89-809D5253EE92}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day 06 - Memory Reallocation", "Day 06 - Memory Reallocation\Day 06 - Memory Reallocation.csproj", "{A0FDF780-C021-4E4E-823F-2136B1AFCBA5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day 08 - I Heard You Like Registers", "Day 08 - I Heard You Like Registers\Day 08 - I Heard You Like Registers.csproj", "{80538AE0-20A9-4696-83D4-3A0A23DF1A2C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -25,6 +27,14 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D404E325-E7F0-4455-BAC2-015E1241078A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D404E325-E7F0-4455-BAC2-015E1241078A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D404E325-E7F0-4455-BAC2-015E1241078A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D404E325-E7F0-4455-BAC2-015E1241078A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{29F85821-CCEB-444D-978A-0DC5CCA1E8E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29F85821-CCEB-444D-978A-0DC5CCA1E8E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29F85821-CCEB-444D-978A-0DC5CCA1E8E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29F85821-CCEB-444D-978A-0DC5CCA1E8E4}.Release|Any CPU.Build.0 = Release|Any CPU
 		{E7B231CB-B5F8-47C6-96D8-A33BD0C7EFA1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{E7B231CB-B5F8-47C6-96D8-A33BD0C7EFA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E7B231CB-B5F8-47C6-96D8-A33BD0C7EFA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -45,17 +55,14 @@ Global
 		{15764625-A53B-4873-AD89-809D5253EE92}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{15764625-A53B-4873-AD89-809D5253EE92}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{15764625-A53B-4873-AD89-809D5253EE92}.Release|Any CPU.Build.0 = Release|Any CPU
-<<<<<<< HEAD
 		{A0FDF780-C021-4E4E-823F-2136B1AFCBA5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{A0FDF780-C021-4E4E-823F-2136B1AFCBA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A0FDF780-C021-4E4E-823F-2136B1AFCBA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A0FDF780-C021-4E4E-823F-2136B1AFCBA5}.Release|Any CPU.Build.0 = Release|Any CPU
-=======
-		{D404E325-E7F0-4455-BAC2-015E1241078A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{D404E325-E7F0-4455-BAC2-015E1241078A}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{D404E325-E7F0-4455-BAC2-015E1241078A}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{D404E325-E7F0-4455-BAC2-015E1241078A}.Release|Any CPU.Build.0 = Release|Any CPU
->>>>>>> 17fa7947b381315e86d94310deb09ce8bd4ace60
+		{80538AE0-20A9-4696-83D4-3A0A23DF1A2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80538AE0-20A9-4696-83D4-3A0A23DF1A2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80538AE0-20A9-4696-83D4-3A0A23DF1A2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80538AE0-20A9-4696-83D4-3A0A23DF1A2C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

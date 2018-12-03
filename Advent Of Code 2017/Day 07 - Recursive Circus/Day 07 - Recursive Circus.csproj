@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{71944742-4203-4D67-91C9-A3F17E7B6DEB}</ProjectGuid>
+    <ProjectGuid>{29F85821-CCEB-444D-978A-0DC5CCA1E8E4}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Day_6___Memory_Allocation</RootNamespace>
-    <AssemblyName>Day 6 - Memory Allocation</AssemblyName>
+    <RootNamespace>Day_07___Recursive_Circus</RootNamespace>
+    <AssemblyName>Day 07 - Recursive Circus</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

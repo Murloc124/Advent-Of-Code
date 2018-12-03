@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("Day 6 - Memory Allocation")]
+[assembly: AssemblyTitle("Day 07 - Recursive Circus")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("Day 6 - Memory Allocation")]
+[assembly: AssemblyProduct("Day 07 - Recursive Circus")]
 [assembly: AssemblyCopyright("Copyright ©  2018")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("71944742-4203-4d67-91c9-a3f17e7b6deb")]
+[assembly: Guid("29f85821-cceb-444d-978a-0dc5cca1e8e4")]
 
 // Version information for an assembly consists of the following four values:
 //
