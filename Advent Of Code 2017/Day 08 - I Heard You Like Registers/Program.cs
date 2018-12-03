@@ -83,7 +83,6 @@ namespace Day__08___I_Heard_You_Like_Registers
 
         private static void DoOperation(string dataEntry, string registerKey, int modificationValue)
         {
-            //Check Operation
             switch (dataEntry.Substring((dataEntry.IndexOf("dec") > 0) ? dataEntry.IndexOf("dec") : dataEntry.IndexOf("inc"), 3))
             {
                 case "dec":

@@ -21,6 +21,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day 06 - Memory Reallocatio
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day 08 - I Heard You Like Registers", "Day 08 - I Heard You Like Registers\Day 08 - I Heard You Like Registers.csproj", "{80538AE0-20A9-4696-83D4-3A0A23DF1A2C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day 09 - Stream Processing", "Day 09 - Stream Processing\Day 09 - Stream Processing.csproj", "{5792F660-8C7E-47B1-A4AC-66C2CFACADB9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day 10 - Knot Hash", "Day 10 - Knot Hash\Day 10 - Knot Hash.csproj", "{03935E57-340A-4678-A686-BCC061343DCA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +67,14 @@ Global
 		{80538AE0-20A9-4696-83D4-3A0A23DF1A2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{80538AE0-20A9-4696-83D4-3A0A23DF1A2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{80538AE0-20A9-4696-83D4-3A0A23DF1A2C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5792F660-8C7E-47B1-A4AC-66C2CFACADB9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5792F660-8C7E-47B1-A4AC-66C2CFACADB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5792F660-8C7E-47B1-A4AC-66C2CFACADB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5792F660-8C7E-47B1-A4AC-66C2CFACADB9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{03935E57-340A-4678-A686-BCC061343DCA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03935E57-340A-4678-A686-BCC061343DCA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03935E57-340A-4678-A686-BCC061343DCA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03935E57-340A-4678-A686-BCC061343DCA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
