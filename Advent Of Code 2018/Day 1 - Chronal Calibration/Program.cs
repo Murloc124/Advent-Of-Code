@@ -1046,9 +1046,7 @@ namespace Day_1___Chronal_Calibration
                         }
                     }
                     if (hasFoundDuplicate)
-                    {
                         break;
-                    }
                     frequencies.Add(result);
                 }
             }
