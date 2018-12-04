@@ -9,7 +9,6 @@ namespace Day_04___Repose_Record
     {
         private static List<string> Data = File.ReadAllLines(@"..\..\Day04-Data.txt").ToList();
         private static Dictionary<string, int> Guards = new Dictionary<string, int>();
-        private static Dictionary<int, int> MinutesAsleepForSleeperGuard = new Dictionary<int, int>();
         private static Dictionary<int, Dictionary<int, int>> GuardsSleepyMinutes = new Dictionary<int, Dictionary<int, int>>();
 
         static void Main(string[] args)
@@ -47,24 +46,7 @@ namespace Day_04___Repose_Record
                 {
                     guardID = x.Substring(x.IndexOf('#') + 1, x.IndexOf('b') - (x.IndexOf('#') + 1)).Replace(" ", "");
                 }
-                else if (guardID.Equals(Guards.Aggregate((l, r) => l.Value > r.Value ? l : r).Key))
-                {
-                    if (!asleep)
-                    {
-                        minuteFellAsleep = int.Parse(x.Substring(x.IndexOf(':') + 1, x.IndexOf(']') - (x.IndexOf(':') + 1)));
-                        asleep = true;
-                    } else
-                    {
-                        for (int i = minuteFellAsleep; i < int.Parse(x.Substring(x.IndexOf(':') + 1, x.IndexOf(']') - (x.IndexOf(':') + 1))); i++)
-                        {
-                            if (MinutesAsleepForSleeperGuard.ContainsKey(i))
-                                MinutesAsleepForSleeperGuard[i]++;
-                            else
-                                MinutesAsleepForSleeperGuard.Add(i, 1);
-                        }
-                        asleep = false;
-                    }
-                } else
+                else
                 {
                     if (!asleep)
                     {
@@ -93,8 +75,7 @@ namespace Day_04___Repose_Record
                 }
             });
             var kvp = GuardsSleepyMinutes.Aggregate((l, r) => l.Value.Aggregate((val1, val2) => val1.Value > val2.Value ? val1 : val2).Value > r.Value.Aggregate((val1, val2) => val1.Value > val2.Value ? val1 : val2).Value ? l : r);
-
-            Console.WriteLine("Day 04 - Part 1: " + (int.Parse(Guards.Aggregate((l, r) => l.Value > r.Value ? l : r).Key) * MinutesAsleepForSleeperGuard.Aggregate((l, r) => l.Value > r.Value ? l : r).Key));
+            Console.WriteLine("Day 04 - Part 1: " + (int.Parse(Guards.Aggregate((l, r) => l.Value > r.Value ? l : r).Key) * GuardsSleepyMinutes[int.Parse(Guards.Aggregate((l, r) => l.Value > r.Value ? l : r).Key)].Aggregate((l, r) => l.Value > r.Value ? l : r).Key));
             Console.WriteLine("Day 04 - Part 2: " + (kvp.Key * kvp.Value.Aggregate((l, r) => l.Value > r.Value ? l : r).Key));
             Console.ReadLine();
         }
