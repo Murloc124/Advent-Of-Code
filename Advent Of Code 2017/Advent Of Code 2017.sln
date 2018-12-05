@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day 09 - Stream Processing"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day 10 - Knot Hash", "Day 10 - Knot Hash\Day 10 - Knot Hash.csproj", "{03935E57-340A-4678-A686-BCC061343DCA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day 11 - Hex Ed", "Day 11 - Hex Ed\Day 11 - Hex Ed.csproj", "{53FFBA3C-E662-444A-9B08-1E41FB916304}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +77,10 @@ Global
 		{03935E57-340A-4678-A686-BCC061343DCA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{03935E57-340A-4678-A686-BCC061343DCA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{03935E57-340A-4678-A686-BCC061343DCA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{53FFBA3C-E662-444A-9B08-1E41FB916304}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53FFBA3C-E662-444A-9B08-1E41FB916304}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53FFBA3C-E662-444A-9B08-1E41FB916304}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53FFBA3C-E662-444A-9B08-1E41FB916304}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
