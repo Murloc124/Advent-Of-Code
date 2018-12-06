@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day 04 - Repose Record", "D
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day 05 - Alchemical Reduction", "Day 05 - Alchemical Reduction\Day 05 - Alchemical Reduction.csproj", "{9652B6B1-6EAB-4CA3-9884-B3AFB65AFD61}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day 06 - Chronal Coordinates", "Day 06 - Chronal Coordinates\Day 06 - Chronal Coordinates.csproj", "{2297A2DF-699F-4338-8167-CEFAF198647E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{9652B6B1-6EAB-4CA3-9884-B3AFB65AFD61}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9652B6B1-6EAB-4CA3-9884-B3AFB65AFD61}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9652B6B1-6EAB-4CA3-9884-B3AFB65AFD61}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2297A2DF-699F-4338-8167-CEFAF198647E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2297A2DF-699F-4338-8167-CEFAF198647E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2297A2DF-699F-4338-8167-CEFAF198647E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2297A2DF-699F-4338-8167-CEFAF198647E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
