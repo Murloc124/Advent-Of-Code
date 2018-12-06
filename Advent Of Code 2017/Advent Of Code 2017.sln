@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day 11 - Hex Ed", "Day 11 -
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day 12 - Digital Plumber", "Day 12 - Digital Plumber\Day 12 - Digital Plumber.csproj", "{97314564-CF92-44F7-A966-E1396B032CF6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day 13 - Packet Scanners", "Day 13 - Packet Scanners\Day 13 - Packet Scanners.csproj", "{E94EE1C0-6E38-4C5B-B9E9-8B7318BCBF59}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,10 @@ Global
 		{97314564-CF92-44F7-A966-E1396B032CF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{97314564-CF92-44F7-A966-E1396B032CF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{97314564-CF92-44F7-A966-E1396B032CF6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E94EE1C0-6E38-4C5B-B9E9-8B7318BCBF59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E94EE1C0-6E38-4C5B-B9E9-8B7318BCBF59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E94EE1C0-6E38-4C5B-B9E9-8B7318BCBF59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E94EE1C0-6E38-4C5B-B9E9-8B7318BCBF59}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
