@@ -17,6 +17,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day 06 - Chronal Coordinate
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day 10 - The Stars Align", "Day 10 - The Stars Align\Day 10 - The Stars Align.csproj", "{77FFB97B-D181-480F-B97B-13717B55CDF6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day 08 - Memory Maneuver", "Day 08 - Memory Maneuver\Day 08 - Memory Maneuver.csproj", "{7AA600A4-5325-49C4-B33D-E796805B20C1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day 09 - Marble Mania", "Day 09 - Marble Mania\Day 09 - Marble Mania.csproj", "{4ACBE321-1BED-4D76-8AF6-EF5DA63D36E5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +55,14 @@ Global
 		{77FFB97B-D181-480F-B97B-13717B55CDF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{77FFB97B-D181-480F-B97B-13717B55CDF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{77FFB97B-D181-480F-B97B-13717B55CDF6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7AA600A4-5325-49C4-B33D-E796805B20C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7AA600A4-5325-49C4-B33D-E796805B20C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7AA600A4-5325-49C4-B33D-E796805B20C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7AA600A4-5325-49C4-B33D-E796805B20C1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4ACBE321-1BED-4D76-8AF6-EF5DA63D36E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4ACBE321-1BED-4D76-8AF6-EF5DA63D36E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4ACBE321-1BED-4D76-8AF6-EF5DA63D36E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4ACBE321-1BED-4D76-8AF6-EF5DA63D36E5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
