@@ -6,7 +6,7 @@ namespace Day_09___Marble_Mania
 {
     class Program
     {
-        private static int AmountOfMarbles = 712230, AmoutOfPlayers = 455;
+        private static int AmountOfMarbles = 71223, AmoutOfPlayers = 455;
         private static int Position = 1, CurrentPlayer = 0;
         private static List<int> MarbleCircle = new List<int>();
         private static Dictionary<int, int> Players = new Dictionary<int, int>();
